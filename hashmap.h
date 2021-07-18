@@ -60,7 +60,7 @@ void_ptr map_get(map_ptr m, string key);
 bool map_delete(map_ptr m, string key, void_ptr data);
 
 /**
- * Funtion to get the length of map
+ * Function to get the length of map
  * 
  * @param m: map pointer
  * @return length of map
